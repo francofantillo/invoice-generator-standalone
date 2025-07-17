@@ -16,6 +16,14 @@ export default function Home() {
             </div>
             <div className="flex items-center space-x-4">
               <a
+                href="https://iinvoiceapp.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-500 hover:text-gray-700"
+              >
+                iInvoice
+              </a>
+              <a
                 href="https://github.com/francofantillo/invoice-generator-standalone"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -138,6 +146,14 @@ export default function Home() {
               <h4 className="text-lg font-semibold mb-4">About</h4>
               <div className="flex space-x-4">
                 <a
+                  href="https://iinvoiceapp.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-white"
+                >
+                  iInvoice
+                </a>
+                <a
                   href="https://github.com/francofantillo/invoice-generator-standalone"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -146,7 +162,7 @@ export default function Home() {
                   GitHub
                 </a>
                 <a
-                  href="https://linkedin.com/in/francofantillo"
+                  href="https://linkedin.com/in/franco-fantillo"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white"
