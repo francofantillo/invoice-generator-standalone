@@ -54,11 +54,6 @@ A modern, professional invoice generator built with Next.js, TypeScript, and Tai
 npm run build
 ```
 
-For static export (GitHub Pages):
-```bash
-npm run export
-```
-
 ## 🌟 Why This Project?
 
 This invoice generator was created to demonstrate:
